@@ -1,12 +1,12 @@
 <h2>
 
 <!--💬TYPINGSVG -->
-   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=f39c12&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+prince!"  alt="Typing SVG" align="center"  /></a>
-           
+
+   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=f39c12&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+prince!"  alt="Typing SVG" align="center"  /></a>
+
 <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20Developer;Passionate %20
-      Techie%20Enthusiast;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Passionate %20Techie%20Enthusiasist;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
 </p>
   
  <!--🌐💬Social Media-->   
