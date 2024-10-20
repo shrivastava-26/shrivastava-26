@@ -46,7 +46,6 @@
 - Practice 🚀
 
 ### 🌱 
-- #365DaysOfCode challenge 💯.
 - Build 30+ projects 🛠️.
 - Contribute to Open Source 🌐.
 
