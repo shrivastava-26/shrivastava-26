@@ -13,7 +13,7 @@
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/prince26/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      <a href="https://https://www.linkedin.com/in/prince26//?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 "><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
@@ -23,7 +23,7 @@
       <a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" height="33" width="80"></a>
     </td>
     <td align="center" width="60">
-    <a href="mailto:prince9b407@gmail.com?subject=Meeting%20Request&body=Hello%20Prince,%0A%0ACan%20we%20schedule%20a%20meeting%20next%20week?%0AThanks."></a><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+    <a href="mailto:prince9b407@gmail.com ?subject=Meeting%20Request &body=Hello%20Prince,%0A%0ACan%20we%20schedule%20a%20meeting%20next%20week?%0AThanks."></a><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
   </tr>
 </table>
