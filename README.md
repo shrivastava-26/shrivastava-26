@@ -22,7 +22,7 @@
       <a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" height="33" width="80"></a>
     </td>
     <td align="center" width="60">
-    <a href="mailto:prince9b407@gmail.com ?subject=Meeting &body=Hello"></a><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+    <a href="mailto:prince9b407@gmail.com ?subject=Meeting &body="Hello How are you" "></a><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
   </tr>
 </table>
