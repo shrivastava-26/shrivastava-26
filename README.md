@@ -36,10 +36,9 @@
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Kafka, Jenkins 🔐
 - Devops ☁️
-- React.js, Native ⚛️
+- React.js, Express.js, Hapi.js ⚛️
 
 ### 💻 I'm working on
-- Aws, Kubernates
 - Practice 🚀
 
 ### 🌱 
