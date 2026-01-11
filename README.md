@@ -125,12 +125,6 @@ const contact = {
 };
 ```
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
 <p align="center">
   <sub>Built with ❤️</sub>
 </p>
